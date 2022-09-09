@@ -3,4 +3,4 @@ Este é um Projeto realizado para ser aplicado em oficina no Instituto Federal d
 
 Este um Projeto criado pela Prof.Dr.Paula fernandes, onde tem destino buscar mais meninas para a área de exatas. O projeto se chama Meninas Pantaneiras na Ciência e Tecnologia.
 
-Instagram: @meninaspantaneiras
+Instagram:  @meninaspantaneiras
